@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MusicPlaylist.Server.Models;
 using MusicPlaylist.Server.Data;
+using MusicPlaylist.Server.DTOs;
 
 var builder = WebApplication.CreateBuilder(args);
 
